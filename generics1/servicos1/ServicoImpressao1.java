@@ -5,7 +5,7 @@ import java.util.List;
 
 //classe generica
 
-public class ServicoImpressao<T> {
+public class ServicoImpressao1<T> {
 
 	//lista do tipo t usando Generic
 	private List<T> list = new ArrayList<>();

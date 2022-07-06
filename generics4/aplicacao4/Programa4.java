@@ -21,6 +21,7 @@ public class Programa4 {
 	
 	//ENTRETANTO NÃO É POSSÍVEL ADICIONAR ITENS A UMA LISTA TIPO CURINGA**************
 	//O compilador não sabe qual é o tipo específico do qual a lista foi instanciada.**************
+	
 	public static void main(String[] args) {
 		List<Integer> myInts = Arrays.asList(5, 2, 10);
 		printList(myInts);

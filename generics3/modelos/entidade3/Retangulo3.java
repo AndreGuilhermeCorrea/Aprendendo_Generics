@@ -1,11 +1,11 @@
-package modelos.entidade;
+package modelos.entidade3;
 
-public class Retangulo implements Forma {
+public class Retangulo3 implements Forma3 {
 
 	private Double largura;
 	private Double altura;
 
-	public Retangulo(Double largura, Double altura) {
+	public Retangulo3(Double largura, Double altura) {
 			super();
 			this.largura = largura;
 			this.altura = altura;

@@ -2,7 +2,7 @@ package aplicacao1;
 
 import java.util.Scanner;
 
-import servicos1.ServicoImpressao;
+import servicos1.ServicoImpressao1;
 
 public class Programa1 {
 
@@ -17,7 +17,7 @@ public class Programa1 {
 		Scanner sc = new Scanner(System.in);
 
 		// instanciar ServiçoImpressao
-		ServicoImpressao<Integer> sImpressao = new ServicoImpressao<Integer>();
+		ServicoImpressao1<Integer> sImpressao = new ServicoImpressao1<Integer>();
 
 		System.out.print("Digite a quantidade de elementos(N): ");
 		int n = sc.nextInt();
@@ -37,7 +37,7 @@ public class Programa1 {
 
 		// _____________________________________________________
 
-		ServicoImpressao<String> sImpressao2 = new ServicoImpressao<String>();
+		ServicoImpressao1<String> sImpressao2 = new ServicoImpressao1<String>();
 
 		System.out.print("Digite a quantidade de elementos(N): ");
 		int n2 = sc.nextInt();

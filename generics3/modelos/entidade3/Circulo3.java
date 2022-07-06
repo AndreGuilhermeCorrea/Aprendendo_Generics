@@ -1,10 +1,10 @@
-package modelos.entidade;
+package modelos.entidade3;
 
-public class Circulo implements Forma {
+public class Circulo3 implements Forma3 {
 	
 	private Double raio;
 
-	public Circulo(Double raio) {
+	public Circulo3(Double raio) {
 		super();
 		this.raio = raio;
 	}

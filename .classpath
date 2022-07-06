@@ -5,6 +5,9 @@
 	<classpathentry kind="src" path="generics3"/>
 	<classpathentry kind="src" path="generics4"/>
 	<classpathentry kind="src" path="generics5"/>
+	<classpathentry kind="src" path="generics6"/>
+	<classpathentry kind="src" path="generics7"/>
+	<classpathentry kind="src" path="generics8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
